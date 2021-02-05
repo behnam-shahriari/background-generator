@@ -53,7 +53,7 @@ setInputColor();
 
 setGradient();
 
-createButton();
+// createButton();
 
-random[0].addEventListener("click", randColGenerator);
+// random[0].addEventListener("click", randColGenerator);
 
