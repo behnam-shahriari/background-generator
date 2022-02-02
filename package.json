@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/behnam-shahriari/background-generator#readme",
   "dependencies": {
-    "lodash": "^4.17.21"
+    "lodash": "^4.17.21",
+    "requirejs": "^2.3.6"
   }
 }
